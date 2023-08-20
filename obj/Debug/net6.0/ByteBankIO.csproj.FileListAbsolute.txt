@@ -1,0 +1,15 @@
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.exe
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.deps.json
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.runtimeconfig.json
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.dll
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\bin\Debug\net6.0\ByteBankIO.pdb
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.AssemblyReference.cache
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfoInputs.cache
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.AssemblyInfo.cs
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.csproj.CoreCompileInputs.cache
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.dll
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\refint\ByteBankIO.dll
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.pdb
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ByteBankIO.genruntimeconfig.cache
+C:\Users\Dirceu\Desktop\Alura\ByteBankIO-master\ByteBankIO\obj\Debug\net6.0\ref\ByteBankIO.dll
